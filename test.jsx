@@ -1,0 +1,1 @@
+app.project.items.addComp("myComp",1920,1080,2.0,15,29.97).layers.addText("うふふふふ");
